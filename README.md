@@ -1,4 +1,10 @@
-## Olá, meu nome é Fernando Santos, estou iniciando minha carreira na área de desenvolvimento, atualmente Analista de Sistemas Júnior.
+## Bem vindo ao meu Github :).
+
+Sou Fernando, estudante de Análise e Desenvolvimento de Sistemas, e atualmente atuo como Desenvolvedor Júnior na Apta Soluções. Tenho 22 anos e tenho experiência em diversas tecnologias, como C#, .NET, Angular 8, SQL e PostgreSQL. Minha jornada profissional é focada tanto no front-end quanto no back-end, sempre buscando soluções eficazes e de alta qualidade 💻.
+
+Trabalho com REST APIs 🌐, utilizando o Entity Framework para operações CRUD, e sou adepto de metodologias ágeis como Scrum 🚀. Além disso, tenho experiência na criação de interfaces interativas 🖥️ e na aplicação de conceitos de Programação Orientada a Objetos (POO) para manter o código modular e de fácil manutenção 🛠️.
+
+Estou constantemente em busca de novos desafios para expandir minhas habilidades e contribuir para projetos inovadores 💡. Se você está interessado em uma colaboração ou simplesmente deseja se conectar, ficarei feliz em conversar 😊.
 
 ![Fernando Santos](https://github-readme-stats.vercel.app/api?username=gitfernandopsantos&show_icons=true&theme=tokyonight)
 
