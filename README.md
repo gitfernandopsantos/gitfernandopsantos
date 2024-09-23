@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/8kb8y3.gif"  />
+
 
 ###
 
@@ -14,6 +14,7 @@ Estou constantemente em busca de novos desafios para expandir minhas habilidades
 
 ![Fernando Santos](https://github-readme-stats.vercel.app/api?username=gitfernandopsantos&show_icons=true&theme=tokyonight)
 
+<h2>Tecnologia</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="AngularJs" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,6 +27,7 @@ Estou constantemente em busca de novos desafios para expandir minhas habilidades
     <img align="center" alt="PostgreSql" height="30" width="40" 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>
+<img align="right" height="200" src="https://i.imgflip.com/8kb8y3.gif"  />
   
   ##
  
