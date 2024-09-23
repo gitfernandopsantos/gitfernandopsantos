@@ -12,6 +12,12 @@ Trabalho com REST APIs 🌐, utilizando o Entity Framework para operações CRUD
 
 Estou constantemente em busca de novos desafios para expandir minhas habilidades e contribuir para projetos inovadores 💡. Se você está interessado em uma colaboração ou simplesmente deseja se conectar, ficarei feliz em conversar 😊.
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitfernandopsantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1&custom_title=Statics" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitfernandopsantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ![Fernando Santos](https://github-readme-stats.vercel.app/api?username=gitfernandopsantos&show_icons=true&theme=tokyonight)
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitfernandopsantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
