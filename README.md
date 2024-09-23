@@ -1,4 +1,10 @@
-## Bem vindo ao meu Github :).
+<h1 align="center">Olá mundo</h1>
+
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/8kb8y3.gif"  />
+
+###
 
 Sou Fernando, estudante de Análise e Desenvolvimento de Sistemas, e atualmente atuo como Desenvolvedor Júnior na Apta Soluções. Tenho 22 anos e tenho experiência em diversas tecnologias, como C#, .NET, Angular 8, SQL e PostgreSQL. Minha jornada profissional é focada tanto no front-end quanto no back-end, sempre buscando soluções eficazes e de alta qualidade 💻.
 
