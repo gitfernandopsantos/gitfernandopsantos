@@ -16,11 +16,7 @@ Estou constantemente em busca de novos desafios para expandir minhas habilidades
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gitfernandopsantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1&custom_title=Statics" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitfernandopsantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-![Fernando Santos](https://github-readme-stats.vercel.app/api?username=gitfernandopsantos&show_icons=true&theme=tokyonight)
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitfernandopsantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img align="right" height="200" src="https://i.imgflip.com/8kb8y3.gif"  />
 </div>
 
 <h2>Tecnologia</h2>
@@ -36,10 +32,9 @@ Estou constantemente em busca de novos desafios para expandir minhas habilidades
     <img align="center" alt="PostgreSql" height="30" width="40" 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>
-<img align="right" height="200" src="https://i.imgflip.com/8kb8y3.gif"  />
+
   
-  ##
- 
+<h2 align="left">Redes Sociais:</h2>
 <div> 
   <a href="https://www.instagram.com/learning_gprogramming/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/fernando_psds" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
