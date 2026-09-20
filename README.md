@@ -152,7 +152,7 @@ Busco constantemente evoluir por meio de **cursos, livros, projetos pessoais e e
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/fernandopsds](https://www.linkedin.com/in/fernandopsds-dev/)" target="_blank">
+<a href="https://www.linkedin.com/in/fernandopsds-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
